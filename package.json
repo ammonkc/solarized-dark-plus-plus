@@ -14,7 +14,7 @@
   "categories": [
     "Themes"
   ],
-  "keywords": {
+  "keywords": [
     "theme",
     "dark theme",
     "ammonkc",
@@ -22,7 +22,7 @@
     "solarized",
     "solarized dark",
     "solarized dark++",
-  },
+  ],
   "contributes": {
     "themes": [
       {
